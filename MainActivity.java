@@ -104,6 +104,5 @@ public class MainActivity extends AppCompatActivity  implements SensorEventListe
                 lblPontos.setText(pontos+"");
             }
         });
-
     }
 }
